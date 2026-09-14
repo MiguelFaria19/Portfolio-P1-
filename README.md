@@ -1,2 +1,8 @@
-# Portfolio-P1-
-Trabalho de Portfolio, Lab. Front-end
+# NPM + Vita
+# Estrutura Base do Site REACT + src
+src
+|
+|-- Inicio│
+|-- Sobre
+|-- PH (Projetos e Habildiades)
+|-- Contato
