@@ -11,30 +11,22 @@ function Contato() {
             Estou aberto a oportunidades de aprendizado, projetos acadêmicos e
             experiências que contribuam para minha formação em tecnologia.
           </p>
-          <a className="button primary" href="mailto:miguel.silvafaria@example.com">
-            Enviar e-mail
-          </a>
         </div>
 
         <div className="contact-card">
           <div className="contact-item">
             <span>E-mail</span>
-            <a href="mailto:miguel.silvafaria@example.com">miguel.silvafaria@example.com</a>
+            <b><p>migueldsf3@gmail.com</p></b>
           </div>
           <div className="contact-item">
             <span>GitHub</span>
-            <a href="https://github.com/" target="_blank" rel="noreferrer">github.com</a>
-          </div>
-          <div className="contact-item">
-            <span>LinkedIn</span>
-            <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer">linkedin.com</a>
+            <a href="https://github.com/MiguelFaria19" target="_blank" rel="noreferrer">github.com</a>
           </div>
 
           <div className="audio-box">
             <span>Mensagem em áudio</span>
             <audio controls preload="metadata">
-              <source src="/audio/portfolio-message.wav" type="audio/wav" />
-              Seu navegador não suporta áudio HTML5.
+              <source src="/audio/yoooou.wav" type="audio/wav" />
             </audio>
           </div>
         </div>
